@@ -1,4 +1,4 @@
-*# BattleTank
+# BattleTank
 An open world head to head tank fight with simple AI terrain and advanced control system in Unreal 4
 
 Part of the Unreal Creator course in Udemy, see [here](https://www.udemy.com/unrealcourse?couponCode-GitHubSpecial) for a special GitHub offer. The full course is part of [this](https://www.kickstarter.com/projects/bentristem/learn-to-make-video-games-unreal-developer-course) Kickstarter campaign which was over 1000% funded.
@@ -12,3 +12,4 @@ Enjoy!
 ## Lecture List
 * BT01 - Intro, Notes & Assets
 * BT02 - Game Design Document (GDD)
+* BT03 - Seting up a GitHub "Repo"
